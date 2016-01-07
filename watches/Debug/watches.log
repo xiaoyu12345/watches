@@ -1,0 +1,31 @@
+﻿生成启动时间为 2016/1/7 18:30:15。
+     1>项目“C:\Users\yu\Desktop\watches\watches\watches.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\watches.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\watches.res" watches.rc 
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         c:\VC\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yu\Desktop\watches\Debug\watches.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\watches.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\yu\Desktop\watches\Debug\watches.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yu\Desktop\watches\Debug\watches.lib" /MACHINE:X86 Debug\watches.res
+         Debug\watches.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\watches.obj
+         Debug\watchesDlg.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\watches.exe.embed.manifest" /manifest Debug\watches.exe.intermediate.manifest c:\VC\VC\Include\Manifest\dpiaware.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         watches.vcxproj -> C:\Users\yu\Desktop\watches\Debug\watches.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\watches.unsuccessfulbuild”。
+         正在对“Debug\watches.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\yu\Desktop\watches\watches\watches.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.74
